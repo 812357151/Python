@@ -16,7 +16,7 @@ class Child(Parent):
         print(self.childName)
 
 
-dchild=Child("aaa")
+dchild=Child("aaass")
 dchild.printChildTitile()
 dchild.printParentTitle()
 print(Parent.parentTitle)
