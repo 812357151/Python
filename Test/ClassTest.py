@@ -12,7 +12,7 @@ class Child(Parent):
     def __init__(self,name):
         Parent.__init__(self,name)
         self.childName+=name
-    def printChildTitile(self):#11222
+    def printChildTitile(self):#1122
         print(self.childName)
 
 
