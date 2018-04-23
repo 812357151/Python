@@ -8,7 +8,7 @@ import calendar
 # print(str[2:5])
 # print(str[2:])
 # print(str*2)
-# print(str+" Test")  
+# print(str+" Test")   
 
 # tuple=('runoob',786,2.23,'john',70.2)
 # tinytuple=(123,'john')
